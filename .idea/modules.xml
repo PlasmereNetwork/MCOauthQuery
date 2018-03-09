@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc-oauth-query.iml" filepath="$PROJECT_DIR$/.idea/modules/mc-oauth-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc-oauth-query_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mc-oauth-query_main.iml" group="mc-oauth-query" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc-oauth-query_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mc-oauth-query_test.iml" group="mc-oauth-query" />
+    </modules>
+  </component>
+</project>
